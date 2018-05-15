@@ -4,9 +4,9 @@ A blockchain is a distributed database with a list (that is, chain) of records (
 
 A blockchain uses
 
-*the block timestamp (e.g. 1637-09-15 20:52:38) and 
-*the hash from the previous block (e.g. edbd4e11e69bc399a9ccd8faaea44fb27410fe8e3023bb9462450a0a9c4caa1b) and finally
-*the block data (e.g. Transaction Data...)
+* the block timestamp (e.g. 1637-09-15 20:52:38) and 
+* the hash from the previous block (e.g. edbd4e11e69bc399a9ccd8faaea44fb27410fe8e3023bb9462450a0a9c4caa1b) and finally
+* the block data (e.g. Transaction Data...)
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*627BG-7qMtaXNsX0n41C6Q.png)
 
